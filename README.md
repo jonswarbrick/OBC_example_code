@@ -1,6 +1,6 @@
 # OBC example code
 Example code to solve DSGE models with occasionally binding constraints.
-This accompanies the paper "Occasionally Binding Constraints in Large Models: A Practical Guide to Solution Methods"
+This accompanies the paper "Occasionally Binding Constraints in Large Models: A Review of Solution Methods"
 
 The repo contains the following directories
 ### functions
